@@ -30,7 +30,7 @@ For more information, click [here](https://docs.nvidia.com/metropolis/deepstream
 
 ## 3. Clone the repository
 ```bash
-git@github.com:NBhargavparasad/person_direction_detection-.git
+git@github.com:bhuvangowdak8/Detection-of-the-person-direction.git
 cd person_direction_deepstream
 ```
 
