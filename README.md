@@ -47,4 +47,4 @@ II. Now, run the application by providing the video source path
 ```
 
 ## Please find the Link of a Demo video below
-[video](https://youtu.be/AYPXwJ0jyL0)
+[Detection of person direction](https://www.youtube.com/watch?v=7tvSDLEeLqc)
