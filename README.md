@@ -1,7 +1,8 @@
 ### DETECTING THE DIRECTION OF A PERSON
 This application helps us in finding the direction in which the person is traversing. It is built on Nvidia Deepstream 5.1.
 
-![person_direction](https://user-images.githubusercontent.com/86153411/167950251-481630cc-cea2-4f55-a4ee-cd3124c414ef.png)
+[Detection of person direction](https://github.com/user-attachments/assets/6aba5b6c-d1e2-40aa-bc1c-4efb83df9fb9)
+
 
 ## Deepstream Setup
 
@@ -30,7 +31,7 @@ For more information, click [here](https://docs.nvidia.com/metropolis/deepstream
 
 ## 3. Clone the repository
 ```bash
-git@github.com:NBhargavparasad/person_direction_detection-.git
+git@github.com:bhuvangowdak8/Detection-of-the-person-direction.git
 cd person_direction_deepstream
 ```
 
@@ -46,4 +47,4 @@ II. Now, run the application by providing the video source path
 ```
 
 ## Please find the Link of a Demo video below
-[video](https://youtu.be/AYPXwJ0jyL0)
+[Detection of person direction](https://www.youtube.com/watch?v=7tvSDLEeLqc)
